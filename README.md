@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Atharv-Chaba
-- 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in quantitative finance.
 - 📫 How to reach me on my [linkedin](https://www.linkedin.com/in/atharv-chaba/)
 
 <!---
